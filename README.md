@@ -27,7 +27,7 @@ Web developer with a focus on clean UI, maintainable code, and practical web sol
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=light)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,php,react,tailwind,bootstrap&theme=light)
 
 **Backend**
 
@@ -44,11 +44,17 @@ Git Bash · GitHub Copilot
 ## GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RakaPutraAL&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RakaPutraAL&show_icons=true&theme=default&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakaPutraAL&layout=compact&hide_border=true&theme=transparent" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakaPutraAL&layout=compact&theme=default&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </p>
 
 ---
