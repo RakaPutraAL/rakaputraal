@@ -45,15 +45,8 @@ Git Bash · GitHub Copilot
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=RakaPutraAL&show_icons=true&theme=default&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=RakaPutraAL&theme=default&show_icons=true&count_private=true"
     alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakaPutraAL&layout=compact&theme=default&cache_seconds=86400"
-    alt="Top Languages"
   />
 </p>
 
