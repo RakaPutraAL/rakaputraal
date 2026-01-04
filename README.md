@@ -45,9 +45,15 @@ Web developer with a focus on clean UI, maintainable code, and practical web sol
 
 ## GitHub Stats
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RakaPutraAL/RakaPutraAL/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RakaPutraAL/RakaPutraAL/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RakaPutraAL/RakaPutraAL/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
+
+
 
 ---
 
