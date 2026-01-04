@@ -37,8 +37,6 @@ Web developer with a focus on clean UI, maintainable code, and practical web sol
 
 ![Tools](https://skillicons.dev/icons?i=git,github,figma&theme=light)
 
-Git Bash · GitHub Copilot
-
 ---
 
 ## GitHub Stats
